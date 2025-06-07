@@ -1,6 +1,7 @@
 # Hi, I'm Alvin David! 👋
 
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![GitHub Streak](https://streak-stats.demolab.com?user=Alvin11David&theme=react)
+
 
 
 
