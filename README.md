@@ -2,26 +2,50 @@
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Alvin11David)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Flutter+%2B+Firebase+Developer;Python+%7C+C+%7C+Dart+Programmer;Passionate+about+Clean+UI+%26+Open+Source" alt="Typing SVG" />
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python+%7C+Firebase;Building+Real+World+Flutter+%2B+Firebase+Apps;Open+Source+%7C+Gaming+%7C+Chess+Enthusiast" alt="Typing SVG" />
 
 ## 👨‍💻 About Me
 
-I'm **Alvin David**, a 24-year-old software developer from **Uganda** 🇺🇬  
-I love building mobile and web apps that solve real-world problems using modern technologies.
+I’m a 24-year-old software developer from **Uganda** 🇺🇬  
+I work with multiple technologies including:
 
-### 💡 What I'm Up To
-- 🔭 Built an [**Accommodation Depot Booking Site**](https://github.com/Alvin11David)
-- 📱 Working on real-world apps with **Flutter** + **Firebase**
-- 🌱 Currently learning **advanced Dart & Flutter animations**
-- 🧠 Always exploring new stacks and creative solutions
-- ♟️ Hobbies: Gaming, Chess, Open Source Contributions
+> **JSX | HTML | CSS | Dart | C | Python | Firebase**
+
+- 🎯 Currently working on real-world apps using Flutter and Firebase  
+- 🔭 Built an **Accommodation Depot Booking Site**  
+- 🧠 Always learning and exploring new tech  
+- ♟️ Hobbies: Gaming, Chess, Open Source
 
 ---
 
-## 💻 Tech Stack
+## 🚀 My GitHub Stats
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?)
+![Alvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvin11David&show_icons=true&theme=react&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin11David&layout=compact&theme=react)
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alvin11David&theme=react)  
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alvin11David&theme=react-dark)
+
+---
+
+## 📫 Reach Me
+
+- 📱 Phone: +256 758 862363  
+- 📧 Email: [alvin69david@gmail.com](mailto:alvin69david@gmail.com)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alvin11David)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvin1_1david)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvin11David)
+
+---
+
+## 🔖 Social Media Handles
+
