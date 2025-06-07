@@ -1,9 +1,5 @@
 # Hi, I'm Alvin David! 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alvin11David&theme=react)
-
-
-
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python+%7C+Firebase;Building+Real+World+Flutter+%2B+Firebase+Apps;Open+Source+%7C+Gaming+%7C+Chess+Enthusiast" alt="Typing SVG" />
 
