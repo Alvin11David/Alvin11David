@@ -1,14 +1,13 @@
 # Hi, I'm Alvin David! 👋
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python🐍+%7C+Firebase🔥;Building+Real+World+Flutter+%2B+Firebase+Applications;Open+Source+%7C+Gaming🎮+%7C+Chess♟️+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python🐍+%7C+React+Native+%7C+Firebase🔥;Building+Real+World+Flutter+%2B+Firebase+Applications;Open+Source+%7C+Gaming🎮+%7C+Chess♟️+Enthusiast" alt="Typing SVG" />
 
 ## 👨‍💻 About Me
 
 I’m a 24-year-old software developer from **Uganda** 🇺🇬  
 I work with multiple technologies including:
 
-> **JSX | HTML | CSS | Dart | C | Python | Firebase | ReactNative**
+> **JSX | HTML | CSS | Dart | C | Python | React Native | Firebase**
 
 - 🎯 Currently working on real-world apps using Flutter and Firebase  
 - 🔭 Built an **Accommodation Depot Booking Site**  
@@ -47,4 +46,3 @@ I work with multiple technologies including:
 ---
 
 ## 🔖 Social Media Handles
-
