@@ -8,7 +8,7 @@
 I’m a 24-year-old software developer from **Uganda** 🇺🇬  
 I work with multiple technologies including:
 
-> **JSX | HTML | CSS | Dart | C | Python | Firebase**
+> **JSX | HTML | CSS | Dart | C | Python | Firebase | ReactNative**
 
 - 🎯 Currently working on real-world apps using Flutter and Firebase  
 - 🔭 Built an **Accommodation Depot Booking Site**  
