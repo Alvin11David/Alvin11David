@@ -1,6 +1,6 @@
 # Hi, I'm Alvin David! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python🐍+%7C+React+Native+%7C+Firebase🔥;Building+Real+World+Flutter+%2B+Firebase+Applications;Open+Source+%7C+Gaming🎮+%7C+Chess♟️+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python🐍+%7C+React+Native+%7C+Firebase🔥+SQL+Postgre SQL;Building+Real+World+Flutter+%2B+Firebase+Applications;Open+Source+%7C+Gaming🎮+%7C+Chess♟️+Enthusiast" alt="Typing SVG" />
 
 ## 👨‍💻 About Me
 
