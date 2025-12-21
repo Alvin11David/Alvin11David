@@ -4,13 +4,13 @@
 
 ## 👨‍💻 About Me
 
-I’m a 24-year-old software developer from **Uganda** 🇺🇬  
+I’m a 21-year-old software developer from **Uganda** 🇺🇬  
 I work with multiple technologies including:
 
-> **JSX | HTML | CSS | Dart | C | Python | React Native | Firebase**
+> **JSX | HTML | CSS | Dart | C | Python | React Native | Firebase | SQL | Postgre SQL**
 
 - 🎯 Currently working on real-world apps using Flutter and Firebase  
-- 🔭 Built an **Accommodation Depot Booking Site**  
+- 🔭 Built an **Accommodation Depot Booking Site | MUBS Locator | Events Uganda**  
 - 🧠 Always learning and exploring new tech  
 - ♟️ Hobbies: Gaming, Chess, Open Source
 
@@ -32,7 +32,7 @@ I work with multiple technologies including:
 
 ## 📫 Reach Me
 
-- 📱 Phone: +256 758 862363  
+- 📱 Phone: +256 758 862363  | _256 761 599504
 - 📧 Email: [alvin69david@gmail.com](mailto:alvin69david@gmail.com)
 
 ---
