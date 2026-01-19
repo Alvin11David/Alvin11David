@@ -1,5 +1,5 @@
 🌌 Hi, i am Waluube Alvin David
-🚀 Computer Scientist | Flutter • Firebase • Full-Stack Explorer
+🚀 Computer Scientist | System Analyst • UI/UX Designer • Full-Stack Developer • Database Developer • Networks Engineer
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python+🐍;Flutter+%2B+Firebase+Architect+🔥;Building+Production-Ready+Mobile+%26+Web+Apps;Open+Source+Contributor+%7C+Chess+♟️+%7C+Gaming+🎮" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0fffc1,100:0077ff&height=3"/> </p>
 🧠 ABOUT ME (3D CARD FEEL)
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=170&section=header&text=Code%20With%20Purpose&fontSize=38&fontColor=ffffff"/> </p>
