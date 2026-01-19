@@ -37,10 +37,8 @@ SQL | PostgreSQL
 
 🔥 STREAK + 3D ACTIVITY GRAPH
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alvin11David&theme=tokyonight&hide_border=true&border_radius=20&mode=daily&timezone=Africa%2FKampala&cache_seconds=1800"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Alvin11David&theme=tokyonight&hide_border=true&border_radius=20"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin11David&bg_color=0d1117&color=00f7ff&line=00ff9c&point=ffffff&area=true&hide_border=true"/> </p>
 
-🌍 CONNECT WITH ME (HOVER GLOW)
+🌍 CONNECT WITH ME 
 
 <p align="center"> <a href="https://linkedin.com/in/Alvin11David"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/alvin1_1david"> <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/Alvin11David"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
