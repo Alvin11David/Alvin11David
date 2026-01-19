@@ -1,48 +1,37 @@
-# Hi, I'm Waluube Alvin David! 👋
+Waluube Alvin David
+🚀 Software Engineer | Flutter • Firebase • Full-Stack Explorer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python+🐍;Flutter+%2B+Firebase+Architect+🔥;Building+Production-Ready+Mobile+%26+Web+Apps;Open+Source+Contributor+%7C+Chess+♟️+%7C+Gaming+🎮" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0fffc1,100:0077ff&height=3"/> </p>
+🧠 ABOUT ME (3D CARD FEEL)
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=170&section=header&text=Code%20With%20Purpose&fontSize=38&fontColor=ffffff"/> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=JSX+%7C+HTML+%7C+CSS+%7C+Dart+%7C+C+%7C+Python+🐍+%7C+React+Native+%7C+Firebase+🔥+%7C+SQL+%7C+PostgreSQL;Building+Real+World+Flutter+%2B+Firebase+Applications;Open+Source+%7C+Gaming+🎮+%7C+Chess+♟️+Enthusiast" alt="Typing SVG" />
+🇺🇬 Ugandan Software Developer (Age 21)
+I design, build, and ship real-world applications with clean UI, scalable backend logic, and modern architectures.
 
-## 👨‍💻 About Me
+🧩 Tech Stack (Neon Grid)
+JSX  | HTML | CSS | Dart | C | Python
+React Native | Flutter | Firebase
+SQL | PostgreSQL
 
-I’m a 21-year-old software developer from **Uganda** 🇺🇬  
-I work with multiple technologies including:
 
-> **JSX | HTML | CSS | Dart | C | Python | React Native | Firebase | SQL | Postgre SQL**
+🎯 Currently: Flutter + Firebase production apps
 
-- 🎯 Currently working on real-world apps using Flutter and Firebase  
-- 🔭 Built an **Accommodation Depot Booking Site | MUBS Locator | Events Uganda**  
-- 🧠 Always learning and exploring new tech  
-- ♟️ Hobbies: Gaming, Chess, Open Source
+🏗️ Built: Accommodation Depot Booking • MUBS Locator • Events Uganda
 
----
+🧠 Mindset: Learn → Build → Optimize → Scale
 
-## 🚀 My GitHub Stats
+♟️ Off-Code: Chess, Gaming, Open Source
 
-![Alvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvin11David&show_icons=true&theme=react&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin11David&layout=compact&theme=react)
+⚡ SKILLS — NEON / 3D BADGES
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,firebase,react,js,html,css,python,c,postgresql,git,figma&theme=dark" /> </p>
+📊 GITHUB STATS (GLOW EFFECT)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alvin11David&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin11David&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/> </p>
+🔥 STREAK + 3D ACTIVITY GRAPH
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Alvin11David&theme=tokyonight&hide_border=true&border_radius=20"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin11David&bg_color=0d1117&color=00f7ff&line=00ff9c&point=ffffff&area=true&hide_border=true"/> </p>
+🌍 CONNECT WITH ME (HOVER GLOW)
+<p align="center"> <a href="https://linkedin.com/in/Alvin11David"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/alvin1_1david"> <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/Alvin11David"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+📫 CONTACT ZONE
+Phone: +256 758 862363 | +256 761 599504
+Email: alvin69david@gmail.com
 
----
-
-## 📈 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alvin11David&theme=react)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alvin11David&theme=react-dark)
-
----
-
-## 📫 Reach Me
-
-- 📱 Phone: +256 758 862363  | _256 761 599504
-- 📧 Email: [alvin69david@gmail.com](mailto:alvin69david@gmail.com)
-
----
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alvin11David)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvin1_1david)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvin11David)
-
----
-
-## 🔖 Social Media Handles
+🧬 FINAL 3D FOOTER
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0077ff&height=120&section=footer"/> </p> <p align="center"> <b>✨ “Build what matters. Optimize what lasts.” ✨</b> </p>
