@@ -13,7 +13,7 @@ I design, build, and ship real-world applications with clean UI, scalable backen
 🧩 Tech Stack (Neon Grid)
 JSX | HTML | CSS | Dart | C | Python
 React Native | Flutter | Firebase | Affinity | Blender | Figma
-SQL | PostgreSQL
+SQL | PostgreSQL | Java
 
 🎯 Currently: Flutter + Firebase production apps
 
