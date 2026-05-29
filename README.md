@@ -26,7 +26,7 @@ SQL | PostgreSQL | Java
 ⚡ SKILLS — NEON / 3D BADGES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,react,js,html,css,python,c,postgresql,git,figma,gcp,gmail&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,react,js,html,css,python,c,postgresql,git,figma,gcp&theme=dark" />
 </p>
 
 🔥 STREAK + 3D ACTIVITY GRAPH
