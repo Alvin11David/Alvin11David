@@ -25,7 +25,14 @@ SQL | PostgreSQL | Java
 
 ⚡ SKILLS — NEON / 3D BADGES
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,firebase,react,js,html,css,python,c,postgresql,git,figma&theme=dark" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,react,js,html,css,python,c,postgresql,git,figma,gcp&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Console-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 
 📊 GITHUB STATS 
 
