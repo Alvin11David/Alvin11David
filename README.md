@@ -34,14 +34,6 @@ SQL | PostgreSQL | Java
   <img src="https://img.shields.io/badge/Google_Cloud_Console-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-📊 GITHUB STATS 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvin11David&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin11David&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8&exclude_repo=github-readme-stats&cache_seconds=1800" height="180"/>
-</p>
-
-
 🔥 STREAK + 3D ACTIVITY GRAPH
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Alvin11David&theme=tokyonight&hide_border=true&border_radius=20"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin11David&bg_color=0d1117&color=00f7ff&line=00ff9c&point=ffffff&area=true&hide_border=true"/> </p>
