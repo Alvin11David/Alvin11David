@@ -25,9 +25,21 @@ SQL | PostgreSQL | Java
 
 ⚡ SKILLS — NEON / 3D BADGES
 
+### 📱 Mobile & Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,react,js,html,css,python,c,postgresql,git,figma,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,figma&theme=dark" />
 </p>
+
+### 🖥️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,django,python,postgresql,firebase,supabase,git&theme=dark" />
+</p>
+
+### ☁️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,postman,docker&theme=dark" />
+</p>
+
 
 🔥 STREAK + 3D ACTIVITY GRAPH
 
