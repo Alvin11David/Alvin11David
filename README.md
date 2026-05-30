@@ -37,7 +37,7 @@ SQL | PostgreSQL | Java
 
 ### ☁️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,postman,docker,idea&theme=dark" />
 </p>
 
 
