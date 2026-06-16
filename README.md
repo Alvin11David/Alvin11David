@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=170&section=header&text=Code%20With%20Purpose&fontSize=38&fontColor=ffffff"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Scientist+by+Training;Problem+Solver+by+Mindset;Builder+of+Scalable+Digital+Systems;Clean+UI+%7C+Strong+Logic+%7C+Modern+Architecture;Turning+Ideas+Into+Production-Ready+Solutions"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=I+design+systems+before+I+code;I+value+clarity%2C+security%2C+and+scalability;From+UI%2FUX+to+Database+Design;From+Mobile+Apps+to+Web+Platforms;Engineering+Solutions+That+Last"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=1100&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Driven+by+curiosity+and+continuous+learning;Focused+on+real-world+impact+over+theory;Comfortable+working+across+the+full+stack;Strong+interest+in+systems%2C+networks%2C+and+architecture;Always+learning.+Always+building.+Always+improving."/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:00ff9c&height=3"/> </p>
 
-🇺🇬 Ugandan Computer Scientist (Age 21)
+🇺🇬 Ugandan Computer Scientist (Age 22)
 I design, build, and ship real-world applications with clean UI, scalable backend logic, and modern architectures.
 
 🧩 Tech Stack (Neon Grid)
