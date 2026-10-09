@@ -15,7 +15,7 @@ JSX | HTML | CSS | Dart | C | Python
 React Native | Flutter | Firebase | Affinity | Blender | Figma
 SQL | PostgreSQL | Java
 
-🎯 Currently: Flutter + Firebase production apps
+🎯 Currently: Learning Spring Security.
 
 🏗️ Built: Accommodation Depot Booking • MUBS Locator • Events Uganda
 
