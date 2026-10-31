@@ -15,9 +15,9 @@ JSX | HTML | CSS | Dart | C | Python
 React Native | Flutter | Firebase | Affinity | Blender | Figma
 SQL | PostgreSQL | Java
 
-🎯 Currently: Learning Spring Security.
+🎯 Currently: Learning Spring Security and Apache Kafka.
 
-🏗️ Built: Accommodation Depot Booking • MUBS Locator • Events Uganda
+🏗️ Built: Accommodation Depot Booking • MUBS Locator • Events Uganda • C-Helper
 
 🧠 Mindset: Learn → Build → Optimize → Scale
 
